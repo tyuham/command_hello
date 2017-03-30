@@ -1,4 +1,4 @@
-// For command line git turorial
+// For command line GIt turorial
 // GIthub modification
 
 print("Hello World")
